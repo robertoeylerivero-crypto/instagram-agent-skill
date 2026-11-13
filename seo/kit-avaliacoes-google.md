@@ -5,10 +5,8 @@ No celular: abra o Google, busque "Pousada Aurema" (logado na conta dona do perf
 Ele tem o formato `https://g.page/r/.../review` e abre direto a tela de estrelas.
 Enquanto isso, dá para usar o link do perfil: https://www.google.com/maps?cid=11901510986440972694
 
-> ⚠️ Confira o nome do perfil: o link do Maps no rodapé do site abre como **"Aurema Eventos"**.
-> Se o perfil público ainda estiver com esse nome ou com categoria de "local para eventos", ajuste para
-> **Pousada Aurema** e categoria principal **Pousada** (eventos pode ficar como categoria secundária).
-> Isso pesa direto nas buscas "pousada praia do rosa".
+> Conferido em 13/11/2026: o perfil aparece no Maps como **Pousada Aurema**, categoria **Pousada**, nota 4,4.
+> O "Aurema Eventos" vinha só do endereço do link curto da página /localizacao/, criado quando o perfil ainda tinha o nome antigo.
 
 ## 2. Quando mandar
 No dia do checkout, à tarde, pelo WhatsApp da pousada. Uma mensagem só, sem lembrete.
