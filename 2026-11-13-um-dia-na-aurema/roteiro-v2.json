@@ -1,0 +1,10 @@
+{"fotos_dir": "/home/claude/reel/fotos",
+ "cenas": [
+  {"foto": "hero-piscina-deck-praia-do-rosa.webp", "titulo": "Vai pro Rosa com criança?", "sub": "olha como é um dia aqui", "dur": 2.2},
+  {"foto": "cafe-da-manha-real-3.webp", "titulo": "9h: a cesta de café chega", "sub": "cortesia da casa", "dur": 2.8},
+  {"foto": "diferenciais-piscina.webp", "titulo": "Manhã de piscina e deck", "sub": "sem pressa nenhuma", "dur": 2.8},
+  {"foto": "estrutura-real-55.webp", "titulo": "Ping-pong e pebolim", "sub": "pra criançada (e pros adultos)", "dur": 2.8},
+  {"foto": "suite-master-confort-1.webp", "titulo": "Quarto com kitchenette", "sub": "pra descansar de verdade", "dur": 2.8},
+  {"foto": "estrutura-real-50.webp", "titulo": "E à noite, o deck iluminado", "sub": "a Aurema fica no centrinho do Rosa", "dur": 2.8}
+ ],
+ "cta": {"titulo": "Reserve direto no site", "sub": "10% de desconto garantido", "rodape": "link na bio · @pousadaaurema", "dur": 3.4}}
