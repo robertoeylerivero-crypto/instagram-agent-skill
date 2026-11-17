@@ -1,0 +1,53 @@
+{
+ "fotos_dir": "/home/claude/reel/fotos",
+ "cenas": [
+  {
+   "foto": "estrutura-real-54.DxznSkK1_ZudBYB.webp",
+   "titulo": "Mesmo quarto.|10% mais barato.",
+   "sub": "é só reservar pelo site",
+   "dur": 2.4
+  },
+  {
+   "tela": "/home/claude/reel/shots/home-full.png",
+   "y0": 0,
+   "y1": 3900,
+   "titulo": "Abre o site da pousada",
+   "sub": "o link está na bio",
+   "dur": 3.0
+  },
+  {
+   "tela": "/home/claude/reel/shots/acomodacoes-full.png",
+   "y0": 0,
+   "y1": 5200,
+   "titulo": "Escolhe a acomodação",
+   "sub": "são 8, de casal a 2 quartos",
+   "dur": 3.0
+  },
+  {
+   "tela": "/home/claude/reel/shots/motor-full.png",
+   "y0": 200,
+   "y1": 1250,
+   "titulo": "Coloca as datas",
+   "sub": "e a reserva fica com a gente",
+   "dur": 2.8
+  },
+  {
+   "foto": "apto-premium-1.B2iClwy-_1z4An1.webp",
+   "titulo": "O quarto é o mesmo",
+   "sub": "sem intermediário no meio",
+   "dur": 2.6
+  },
+  {
+   "foto": "estrutura-real-58.BZEHxKH1_Z2p33Ob.webp",
+   "titulo": "A piscina também",
+   "sub": "no centrinho da Praia do Rosa",
+   "dur": 2.6
+  }
+ ],
+ "cta": {
+  "titulo": "Reserve direto no site",
+  "sub": "10% de desconto garantido",
+  "rodape": "link na bio · @pousadaaurema",
+  "dur": 3.4
+ }
+}
