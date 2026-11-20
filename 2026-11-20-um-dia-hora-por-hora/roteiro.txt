@@ -1,0 +1,24 @@
+REEL · Sex 20/11 · Um dia na Aurema, hora por hora · função: experiência
+Vídeo: reel.mp4 (1080x1920, H.264, ~20 s, sem música: adicione um áudio em alta no app). Capa: 01-capa.jpg.
+Fotos reais do site (sem pessoas posadas). Gerado com ferramentas/render_reel.py (roteiro.json nesta pasta; "|" = quebra de linha no título).
+Substitui o rascunho do Reel "Vai pro Rosa com criança?" de 13/11, que nunca foi ao ar (mesmo tema, ângulo antigo).
+
+Tempo     Foto                          Texto na tela (título / subtítulo)
+0,0-2,4   cesta do café                 Sua sexta no Rosa, hora por hora / 9h: a cesta do café chega
+2,4-5,2   piscina de manhã              10h: piscina antes de todo mundo / aberta das 9h às 20h
+5,2-8,0   Praia do Rosa                 14h: tarde de praia / areia, mar e nenhuma pressa
+8,0-10,8  ping-pong e pebolim           17h: revanche no ping-pong / ou no pebolim
+10,8-13,6 centrinho do Rosa à noite     19h: jantar no centrinho / a Aurema fica no centrinho do Rosa
+13,6-16,4 deck iluminado                22h: o deck iluminado / é assim que a sexta acaba
+16,4-19,8 tela verde                    Reserve direto no site / 10% de desconto garantido / link na bio · @pousadaaurema
+
+Texto alternativo da capa: Cesta de café da manhã com pães, garrafa térmica e frios, com o texto "Sua sexta no Rosa, hora por hora" e "9h: a cesta do café chega".
+
+STORIES · Sex 20/11 · sequência de aproximação (curiosidade → resposta → escolha → Reel → reserva). Figurinhas no app, no espaço vazio embaixo.
+1  story-1.jpg  Cesta do café. "Que horas a cesta do café chega aqui?" Figurinha: TESTE 8h / 9h / 10h (correta: 9h).
+2  story-2.jpg  "Por volta das 9h. E é cortesia da casa." Figurinha: BARRA DE EMOJI com ☕.
+3  story-3.jpg  Piscina de manhã. "Piscina: logo cedo ou no fim da tarde?" Figurinha: ENQUETE Logo cedo / Fim da tarde.
+4  story-4.jpg  Deck iluminado. "A sua sexta no Rosa, hora por hora." Figurinha: compartilhar o Reel de hoje (postar depois que o Reel estiver no feed).
+5  story-5.jpg  Fundo verde, deck de dia. "Bora marcar a sua sexta aqui?" Figurinha: LINK https://auremabooking.com.br (texto "Reservar com 10%").
+
+POST DO GOOGLE (sexta): gbp.txt + gbp-foto.jpg (sala de jogos ao ar livre com ping-pong e pebolim, ao lado da piscina, 1024x768).

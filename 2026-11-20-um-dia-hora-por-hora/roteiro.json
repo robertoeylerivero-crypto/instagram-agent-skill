@@ -1,0 +1,10 @@
+{"fotos_dir": "/home/claude/reel20/fotos",
+ "cenas": [
+  {"foto": "cafe-da-manha-real-3.webp", "titulo": "Sua sexta no Rosa,|hora por hora", "sub": "9h: a cesta do café chega", "dur": 2.4},
+  {"foto": "estrutura-real-1.webp", "titulo": "10h: piscina|antes de todo mundo", "sub": "aberta das 9h às 20h", "dur": 2.8},
+  {"foto": "praia-do-rosa.webp", "titulo": "14h: tarde de praia", "sub": "areia, mar e nenhuma pressa", "dur": 2.8},
+  {"foto": "estrutura-real-55.webp", "titulo": "17h: revanche|no ping-pong", "sub": "ou no pebolim", "dur": 2.8},
+  {"foto": "centrinho-do-rosa.webp", "titulo": "19h: jantar no centrinho", "sub": "a Aurema fica no centrinho do Rosa", "dur": 2.8},
+  {"foto": "estrutura-real-50.webp", "titulo": "22h: o deck iluminado", "sub": "é assim que a sexta acaba", "dur": 2.8}
+ ],
+ "cta": {"titulo": "Reserve direto no site", "sub": "10% de desconto garantido", "rodape": "link na bio · @pousadaaurema", "dur": 3.4}}
