@@ -24,6 +24,11 @@ def fraunces(size, wght=600):
 
 
 def wrap(draw, text, font, maxw):
+    if "|" in text:
+        out = []
+        for part in text.split("|"):
+            out += wrap(draw, part.strip(), font, maxw)
+        return out
     lines, cur = [], ""
     for w in text.split():
         t = (cur + " " + w).strip()

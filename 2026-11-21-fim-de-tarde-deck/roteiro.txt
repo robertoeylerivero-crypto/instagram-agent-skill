@@ -1,0 +1,24 @@
+REEL · Sáb 21/11 · Fim de tarde no deck e churrasqueira · função: desejo
+Vídeo: reel.mp4 (1080x1920, H.264, ~20 s, sem música: adicione um áudio em alta no app). Capa: 01-capa.jpg.
+Fotos reais do site, todas sem pessoas. Gerado com ferramentas/render_reel.py (roteiro.json nesta pasta; "|" = quebra de linha no título).
+Obs.: o site não tem foto da churrasqueira sem pessoas (as duas que existem têm grupos posados), então a cena do churrasco usa o deck com as mesas. Quando chegar a gravação da churrasqueira acesa, dá para trocar a cena 4.
+
+Tempo      Foto                          Texto na tela (título / subtítulo)
+0,0-2,4    piscina com sol baixo         17h, voltou da praia. E agora? / o fim de tarde na Aurema
+2,4-5,2    deck e piscina à tarde        Último mergulho do dia / a piscina fica aberta até as 20h
+5,2-8,0    pérgola e parquinho           Criança no parquinho / enquanto o carvão pega
+8,0-10,8   deck com mesas, luz dourada   Churrasco com a turma / churrasqueira agendada na recepção
+10,8-13,6  vista aérea ao anoitecer      As luzes do deck acendem / e ninguém quer subir pro quarto
+13,6-16,4  deck iluminado                É assim que o dia termina no Rosa / no centrinho da Praia do Rosa
+16,4-19,8  tela verde                    Reserve direto no site / 10% de desconto garantido / link na bio · @pousadaaurema
+
+Texto alternativo da capa: Piscina com deck de madeira e mesas ao sol do fim de tarde, com o texto "17h, voltou da praia. E agora?" e "o fim de tarde na Aurema".
+
+STORIES · Sáb 21/11 · sequência de aproximação (escolha → resposta → conversa → Reel → reserva). Figurinhas no app, no espaço vazio embaixo.
+1  story-1.jpg  Vista aérea da pousada. "Fim de tarde: piscina ou churrasco?" Figurinha: ENQUETE Piscina / Churrasco.
+2  story-2.jpg  Fundo areia. "Dá pra fazer os dois." Piscina até as 20h, churrasqueira agendada na recepção. Figurinha: BARRA DE EMOJI com 🔥.
+3  story-3.jpg  Pérgola e parquinho. "Quem é o assador oficial da sua turma?" Figurinha: CAIXA DE PERGUNTAS "manda o nome".
+4  story-4.jpg  Deck iluminado. "17h, voltou da praia. E agora?" Figurinha: compartilhar o Reel de hoje (postar depois que o Reel estiver no feed).
+5  story-5.jpg  Fundo verde, deck com luz dourada. "Bora marcar o seu fim de tarde aqui?" Figurinha: LINK https://auremabooking.com.br (texto "Reservar com 10%").
+
+Sem post do Google hoje (sábado).
