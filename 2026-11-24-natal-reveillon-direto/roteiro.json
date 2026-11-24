@@ -1,0 +1,51 @@
+{
+ "fotos_dir": "/home/claude/reel24/fotos",
+ "cenas": [
+  {
+   "foto": "hero-piscina-deck-praia-do-rosa.B9GaIB1Y_Z108Sba.webp",
+   "titulo": "Natal ou Réveillon|no Rosa?",
+   "sub": "dá pra pagar 10% a menos",
+   "dur": 2.6
+  },
+  {
+   "foto": "apto-premium-1.B2iClwy-_1z4An1.webp",
+   "titulo": "A família toda junta",
+   "sub": "aptos com 2 quartos",
+   "dur": 2.8
+  },
+  {
+   "foto": "cafe-da-manha-real-3.D6k2hb_H_X3NIc.webp",
+   "titulo": "Manhã sem pressa",
+   "sub": "cesta de café às 9h, cortesia",
+   "dur": 2.8
+  },
+  {
+   "foto": "estrutura-real-50.DmPYwf1v_1vmr8a.webp",
+   "titulo": "Noite calma no deck",
+   "sub": "a 1,3 km do centrinho do Rosa",
+   "dur": 2.8
+  },
+  {
+   "tela": "/home/claude/reel24/shots/home-full.png",
+   "y0": 0,
+   "y1": 3900,
+   "titulo": "Reserve pelo site",
+   "sub": "o link está na bio",
+   "dur": 3.0
+  },
+  {
+   "tela": "/home/claude/reel24/shots/motor-full.png",
+   "y0": 120,
+   "y1": 420,
+   "titulo": "10% a menos no site",
+   "sub": "a reserva fica com a gente",
+   "dur": 2.8
+  }
+ ],
+ "cta": {
+  "titulo": "Natal e Réveillon|direto no site",
+  "sub": "10% de desconto garantido",
+  "rodape": "link na bio · @pousadaaurema",
+  "dur": 3.4
+ }
+}
