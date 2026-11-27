@@ -1,0 +1,23 @@
+REEL · Sex 27/11 · Chegada: portão, estacionamento, quarto, cesta · função: experiência
+Arquivo: reel.mp4 (1080x1920, H.264, 20 s, sem música: adicionar um áudio em alta no app). Capa: 01-capa.jpg.
+Fotos: site oficial (hero-praia-do-rosa, estrutura-real-53, suite-casal-conforto-1, apto-triplo-conforto-1, hero-piscina-deck-praia-do-rosa, cafe-da-manha-real-3). Sem pessoas. A suite-master-confort-1 e a suite-master-standar-1 foram descartadas porque têm a marca "AI" no canto superior esquerdo.
+Ângulo novo em relação a 20/11 (dia hora por hora) e 21/11 (fim de tarde): aqui é a primeira hora de quem chega de carro.
+
+0,0-2,6 s   Vista aérea da pousada — "Chegou no Rosa cansado da estrada. E agora?" / check-in a partir das 15h   [GANCHO]
+2,6-5,4 s   Fachada com palmeiras e carro no pátio — "O portão abre e o carro fica aqui dentro" / estacionamento grátis, portão eletrônico   [IDENTIFICAÇÃO]
+5,4-8,2 s   Suíte Casal Conforto — "Mala no quarto, ar de praia na janela" / são 8 acomodações   [EXPERIÊNCIA]
+8,2-11,0 s  Kitchenette do Apto Triplo Conforto — "Água gelada na kitchenette" / a maioria das acomodações tem   [EXPERIÊNCIA]
+11,0-13,8 s Piscina com deck — "Primeiro mergulho antes do jantar" / piscina aberta até as 20h   [DESEJO]
+13,8-16,6 s Cesta do café — "E no dia seguinte, 9h, a cesta chega" / café da manhã, cortesia da casa   [DESEJO]
+16,6-20,0 s Tela verde — "Reserve direto no site" / 10% de desconto garantido / link na bio · @pousadaaurema   [CONVERSÃO]
+
+Texto alternativo da capa: Vista aérea da Pousada Aurema num dia de sol, com a piscina, o deck de madeira, o prédio de tijolos e o gramado, com o título "Chegou no Rosa cansado da estrada. E agora?".
+
+STORIES · Sex 27/11 · postar ao longo do dia, depois do Reel. Figurinhas no espaço vazio no meio/embaixo de cada tela.
+1  story-1.jpg  Vista aérea da pousada. "Vindo de carro pro Rosa? Quanto tempo de estrada?" Figurinha: ENQUETE — Até 3h / Mais de 3h.
+2  story-2.jpg  Fachada com o carro no pátio. "Chegando aqui, o carro fica do lado de dentro." Figurinha: compartilhar o Reel de hoje por cima.
+3  story-3.jpg  Kitchenette. "Valendo: que horas é o check-in na Aurema?" Figurinha: TESTE — 12h / 15h (correta: 15h).
+4  story-4.jpg  Cesta do café. "A partir das 15h. E no dia seguinte, por volta das 9h, a cesta chega." Figurinha: CONTROLE DESLIZANTE com ☕ "Café da manhã no quarto: quanto você gosta?"
+5  story-5.jpg  Fundo verde com a piscina. "Sua chegada no Rosa, reservando direto · 10% de desconto garantido no site." Figurinha: LINK https://auremabooking.com.br (texto "Reservar com 10%").
+
+GOOGLE (sexta): gbp.txt + gbp-foto.jpg (estrutura-real-54, 1024x768). Tema: informações práticas para a chegada.
